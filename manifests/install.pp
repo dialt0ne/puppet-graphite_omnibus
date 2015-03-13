@@ -9,7 +9,7 @@
 #
 # === Authors
 #
-# Anthony Tonns <anthony.tonns@take2games.com>
+# Anthony Tonns <antony@tonns.com>
 #
 class graphite_omnibus::install (
     $package_ensure  = $::graphite_omnibus::params::package_ensure,

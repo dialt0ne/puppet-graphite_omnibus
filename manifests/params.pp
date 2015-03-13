@@ -4,7 +4,7 @@
 #
 # === Authors
 #
-# Anthony Tonns <anthony.tonns@take2games.com>
+# Anthony Tonns <antony@tonns.com>
 #
 
 class graphite_omnibus::params {
