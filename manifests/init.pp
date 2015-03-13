@@ -4,7 +4,7 @@
 #
 # === Authors
 #
-# Anthony Tonns <antony@tonns.com>
+# Anthony Tonns <anthony@tonns.com>
 #
 class graphite_omnibus (
     $package_ensure             = $::graphite_omnibus::params::package_ensure,
